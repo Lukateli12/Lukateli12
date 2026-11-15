@@ -94,15 +94,5 @@ With hands-on experience providing **Help Desk technical support at UNICEF** (ma
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lukateli12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukateli12&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
   <i>Always learning, automating, and building reliable systems. Feel free to reach out!</i>
 </div>
