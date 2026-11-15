@@ -1,36 +1,39 @@
 <div align="center">
 
-# Hi there, I'm Lucas Recarey 👋
+# Hi there, I'm Lucas Recarey
 
 **Systems & Network Administration (ASIR) Student | IT Technician | Web & Python Developer**
 
-[![Location](https://img.shields.io/badge/Location-Tarragona-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Lukateli12)
+[![Location](https://img.shields.io/badge/Location-Tarragona-181717?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Lukateli12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-recarey/)
-[![Email](https://img.shields.io/badge/Email-lucasrecarey12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrecarey12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lucasrecarey12%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrecarey12@gmail.com)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I am an **IT Technician** specializing in **Web Development and Support**, currently pursuing a Higher Technical Certificate in **Network and Systems Administration (ASIR)** at *Institut Baix Camp* (Reus, Spain).
 
 With hands-on experience providing **Help Desk technical support at UNICEF** (managing over 60 workstations) and working on electronic security systems at **Prosegur**, I bridge the gap between **infrastructure administration**, **automation**, and **software development**. I thrive on solving complex technical problems, optimizing Linux environments, and building practical tools.
 
-- 🔭 **Currently studying:** Network & Systems Administration (ASIR) — Virtualization, Linux Servers, Networking & Databases.
-- 🛠️ **Focus areas:** Systems Administration, Infrastructure Automation, Containerization, and Full-Stack Web Development.
-- 🌍 **Languages:** Spanish (Native), English (B2 — Upper Intermediate).
-- ⚡ **Beyond the terminal:** Calisthenics, Zone 2 running, classic literature, and self-hosting experiments.
+**Currently studying:** Network & Systems Administration (ASIR) — Virtualization, Linux Servers, Networking & Databases.
+
+**Focus areas:** Systems Administration, Infrastructure Automation, Containerization, and Full-Stack Web Development.
+
+**Languages:** Spanish (Native), English (B2 — Upper Intermediate).
+
+**Beyond the terminal:** Calisthenics, Zone 2 running, classic literature, and self-hosting experiments.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🦖 <a href="https://github.com/Lukateli12/draftosaurus_web">Draftosaurus Web</a></h3>
+      <h3><a href="https://github.com/Lukateli12/draftosaurus_web">Draftosaurus Web</a></h3>
       <p>Digital web adaptation and companion tool for the <i>Draftosaurus</i> board game, featuring interactive game logic, score tracking, and responsive UI.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -40,7 +43,7 @@ With hands-on experience providing **Help Desk technical support at UNICEF** (ma
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>✈️ <a href="https://github.com/Lukateli12/TravelPage">TravelPage</a></h3>
+      <h3><a href="https://github.com/Lukateli12/TravelPage">TravelPage</a></h3>
       <p>Modern, responsive travel platform and destination showcase built with clean frontend architecture and dynamic user interaction.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -49,7 +52,7 @@ With hands-on experience providing **Help Desk technical support at UNICEF** (ma
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 <a href="https://github.com/Lukateli12/Bot-Lukateli-s">Bot-Lukateli's</a></h3>
+      <h3><a href="https://github.com/Lukateli12/Bot-Lukateli-s">Bot-Lukateli's</a></h3>
       <p>Custom automation bot built in Python to streamline tasks, handle commands, and integrate automated workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -61,7 +64,7 @@ With hands-on experience providing **Help Desk technical support at UNICEF** (ma
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### **Systems, Infrastructure & Virtualization**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -84,15 +87,20 @@ With hands-on experience providing **Help Desk technical support at UNICEF** (ma
 
 ---
 
-### 💼 Experience & Education Highlights
+### Experience & Education Highlights
 
-- **Security Systems Technician** @ *Prosegur* — Installation, programming, and enterprise access control systems.
-- **Help Desk Technician** @ *UNICEF* — End-user technical support and maintenance for 60+ computers.
-- **Higher Technical Certificate in Network & Systems Administration (ASIR)** @ *Institut Baix Camp* *(In progress)*
-- **Certified Python Programmer** @ *BIOS*
-- **IT & Web Development Baccalaureate** @ *UTU Brazo Oriental*
+**Security Systems Technician** @ *Prosegur* — Installation, programming, and enterprise access control systems.
+
+**Help Desk Technician** @ *UNICEF* — End-user technical support and maintenance for 60+ computers.
+
+**Higher Technical Certificate in Network & Systems Administration (ASIR)** @ *Institut Baix Camp* *(In progress)*
+
+**Certified Python Programmer** @ *BIOS*
+
+**IT & Web Development Baccalaureate** @ *UTU Brazo Oriental*
 
 ---
 
+<div align="center">
   <i>Always learning, automating, and building reliable systems. Feel free to reach out!</i>
 </div>
