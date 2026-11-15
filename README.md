@@ -4,9 +4,9 @@
 
 **Systems & Network Administration (ASIR) Student | IT Technician | Web & Python Developer**
 
-[![Location](https://img.shields.io/badge/Location-Tarragona-181717?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Lukateli12)
+[![Location](https://img.shields.io/badge/Location-Tarragona-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Lukateli12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-recarey/)
-[![Email](https://img.shields.io/badge/Email-lucasrecarey12%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrecarey12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lucasrecarey12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrecarey12@gmail.com)
 
 </div>
 
